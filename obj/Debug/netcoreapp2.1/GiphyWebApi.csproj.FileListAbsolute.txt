@@ -1,0 +1,14 @@
+C:\Users\tomer_000\source\repos\GiphyExercise\bin\Debug\netcoreapp2.1\GiphyWebApi.deps.json
+C:\Users\tomer_000\source\repos\GiphyExercise\bin\Debug\netcoreapp2.1\GiphyWebApi.runtimeconfig.json
+C:\Users\tomer_000\source\repos\GiphyExercise\bin\Debug\netcoreapp2.1\GiphyWebApi.runtimeconfig.dev.json
+C:\Users\tomer_000\source\repos\GiphyExercise\bin\Debug\netcoreapp2.1\GiphyWebApi.dll
+C:\Users\tomer_000\source\repos\GiphyExercise\bin\Debug\netcoreapp2.1\GiphyWebApi.pdb
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.csprojAssemblyReference.cache
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.csproj.CoreCompileInputs.cache
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.RazorAssemblyInfo.cache
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.RazorAssemblyInfo.cs
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.AssemblyInfoInputs.cache
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.AssemblyInfo.cs
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.dll
+C:\Users\tomer_000\source\repos\GiphyExercise\obj\Debug\netcoreapp2.1\GiphyWebApi.pdb
